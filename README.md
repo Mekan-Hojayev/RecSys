@@ -1,2 +1,2 @@
 # RecSys
-Recommender Systems basic course
+Recommender Systems + Project
